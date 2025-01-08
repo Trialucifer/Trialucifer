@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Fankouzu/Fankouzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Trialucifer/Trialucifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fankouzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fankouzu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fankouzu&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fankouzu&area=true&hide_border=true&theme=dracula)
+![Trialucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trialucifer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trialucifer&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Trialucifer&area=true&hide_border=true&theme=dracula)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fankouzu/Fankouzu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trialucifer/Trialucifer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trialucifer/Trialucifer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Trialucifer/Trialucifer/output/github-contribution-grid-snake.svg">
 </picture>
